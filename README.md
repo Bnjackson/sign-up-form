@@ -1,2 +1,3 @@
-# sign-up-form
-Mock sign up form built using HTML, CSS, and JS. Project is part of the Odin project. 
+# Sing Up Form 
+
+Simple mock sign up form. Built using HTML, CSS, and JS. Project for the Odin project. 
